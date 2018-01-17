@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.6027d0db.css",
   "main.css.map": "static/css/main.6027d0db.css.map",
-  "main.js": "static/js/main.58272f27.js",
-  "main.js.map": "static/js/main.58272f27.js.map",
+  "main.js": "static/js/main.05165bfe.js",
+  "main.js.map": "static/js/main.05165bfe.js.map",
   "static\\media\\2018_Crawfish_Cup_Logo.png": "static/media/2018_Crawfish_Cup_Logo.7f01548a.png",
   "static\\media\\fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static\\media\\fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -13,5 +13,8 @@
   "static\\media\\glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
   "static\\media\\glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
   "static\\media\\glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
-  "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2"
+  "static\\media\\glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static\\media\\kickstandsKitchenLogo.png": "static/media/kickstandsKitchenLogo.5ba4f607.png",
+  "static\\media\\sushiMasaLogo.jpg": "static/media/sushiMasaLogo.a846594a.jpg",
+  "static\\media\\theLondonerLogo.jpg": "static/media/theLondonerLogo.a2a2ad96.jpg"
 }
